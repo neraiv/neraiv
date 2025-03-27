@@ -8,7 +8,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Neraiv&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=swift&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
 
-## Mostly Interested In
+## 🖥️ Mostly Interested In
 
 - Data Processing, Robotics, ML, Embeded Software and Game Development.
 - Any project new to me and challenging :smiley:
